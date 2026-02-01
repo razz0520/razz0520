@@ -63,12 +63,6 @@ I am a 2nd-year Computer Science undergraduate focused on **algorithmic efficien
 
 ### 🧩 **Selected Projects**
 
-| **Project** | **Tech Stack** | **Complexity** |
-| :--- | :--- | :--- |
-| **[Project Name 1]** | Java, Spring Boot | *Designed a REST API handling [X] requests...* |
-| **[Project Name 2]** | Python, Scikit-Learn | *Implemented a regression model with [X]% accuracy...* |
-
----
 
 ### 📬 **Connect**
 
