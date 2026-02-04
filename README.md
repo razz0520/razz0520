@@ -41,7 +41,7 @@ I am a 2nd-year Computer Science undergraduate focused on **algorithmic efficien
   <table>
     <tr>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=razz0520&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&hide_border=true" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=razz0520&show_icons=true&theme=gotham&hide_border=true" />
       </td>
       <td>
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=razz0520&layout=compact&theme=gotham&hide_border=true" />
