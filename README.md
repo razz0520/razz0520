@@ -15,7 +15,7 @@ I am a 2nd-year Computer Science undergraduate focused on **algorithmic efficien
 
 * 💻 **Focus:** Data Structures (Java/C), System Design, and Machine Learning.
 * 🎓 **Goal:** Securing a Software Engineering Internship to solve impactful problems.
-* 🔧 **Current Grind:** LeetCode (Daily) & Building a [Project Name].
+* 🔧 **Current Grind:** LeetCode (Daily) & Building a **[Project Name]**.
 
 ---
 
@@ -38,17 +38,6 @@ I am a 2nd-year Computer Science undergraduate focused on **algorithmic efficien
 ### 📈 **Performance Metrics**
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=razz0520&show_icons=true&theme=gotham&hide_border=true" />
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=razz0520&layout=compact&theme=gotham&hide_border=true" />
-      </td>
-    </tr>
-  </table>
-  
   <img src="https://leetcard.jacoblin.cool/razz_25?theme=dark&font=Roboto%20Mono&ext=heatmap" alt="LeetCode Stats" />
 </div>
 
@@ -58,15 +47,6 @@ I am a 2nd-year Computer Science undergraduate focused on **algorithmic efficien
 <div align="center">
   <img src="https://raw.githubusercontent.com/razz0520/razz0520/output/github-contribution-grid-snake.svg" alt="snake" />
 </div>
-
----
-
-### 🧩 **Selected Projects**
-
-| **Project** | **Tech Stack** | **Complexity** |
-| :--- | :--- | :--- |
-| **[Project Name 1]** | Java, Spring Boot | *Designed a REST API handling [X] requests...* |
-| **[Project Name 2]** | Python, Scikit-Learn | *Implemented a regression model with [X]% accuracy...* |
 
 ---
 
