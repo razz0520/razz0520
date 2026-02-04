@@ -15,7 +15,7 @@ I am a 2nd-year Computer Science undergraduate focused on **algorithmic efficien
 
 * 💻 **Focus:** Data Structures (Java/C), System Design, and Machine Learning.
 * 🎓 **Goal:** Securing a Software Engineering Internship to solve impactful problems.
-* 🔧 **Current Grind:** LeetCode (Daily) & Building a [].
+* 🔧 **Current Grind:** LeetCode (Daily) & Building a [Project Name].
 
 ---
 
@@ -56,13 +56,19 @@ I am a 2nd-year Computer Science undergraduate focused on **algorithmic efficien
 
 ### 🐍 **Contribution Graph**
 <div align="center">
-  <img src="https://github.com/razz0520/razz0520/blob/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/razz0520/razz0520/output/github-contribution-grid-snake.svg" alt="snake" />
 </div>
 
 ---
 
 ### 🧩 **Selected Projects**
 
+| **Project** | **Tech Stack** | **Complexity** |
+| :--- | :--- | :--- |
+| **[Project Name 1]** | Java, Spring Boot | *Designed a REST API handling [X] requests...* |
+| **[Project Name 2]** | Python, Scikit-Learn | *Implemented a regression model with [X]% accuracy...* |
+
+---
 
 ### 📬 **Connect**
 
