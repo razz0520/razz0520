@@ -94,7 +94,7 @@ Scripted, least-privilege IAM + EC2 + S3 static hosting pipeline; cut manual dep
 
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=razz0520&show_icons=true&theme=dark&hide_border=true&count_private=true&rank_icon=github&cache_seconds=1800" alt="GitHub Stats" height="165"/>
-  <img src="https://streak-stats.demolab.com/?user=razz0520&theme=dark&hide_border=true" alt="GitHub Streak" height="165"/>
+  <img src="./profile/streak.svg" alt="GitHub Streak" height="165"/> 
 </div>
 
 <br/>
